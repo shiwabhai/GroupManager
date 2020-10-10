@@ -28,7 +28,7 @@ I am Life And Group Manager Bot 😁
 Just do some simple steps to keep safe from spam
 /antispam on 
 
-Rises From Legendary Caves To Wake Up A [Legend](t.me/shiwa_bhai_bot
+Rises From Legendary Caves To Wake Up A [Legend](t.me/shiwa_bhai_bot)
 
 Special thanks to [this person](t.me/Kek_NoiCe) for helping me.
 
