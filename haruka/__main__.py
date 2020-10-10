@@ -28,17 +28,17 @@ I am Life And Group Manager Bot 😁
 Just do some simple steps to keep safe from spam
 /antispam on 
 
-Rises From Legendary Caves To Wake Up A [Legend](t.me/Criminal786)
+Rises From Legendary Caves To Wake Up A [Legend](t.me/shiwa_bhai_bot
 
 Special thanks to [this person](t.me/Kek_NoiCe) for helping me.
 
 Click /help or Help button below to find out more about how to use me to my full potential.
 
-Now add me to your group [here](http://t.me/criminal786bot?startgroup=true).
+Now add me to your group [here](http://t.me/anierobot_bot?startgroup=true).
 
-Support group is [here](t.me/criminal786botsupport)
+Support group is [here](t.me/anie_support)
 
-Deploy Your Own BoT like Me Just Click [here](https://github.com/amaan110/GroupManager)
+Deploy Your Own BoT like Me Just Click [here](https://github.com/shiwabhai/GroupManager)
 """
 
 IMPORTED = {}
