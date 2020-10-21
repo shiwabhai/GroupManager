@@ -34,11 +34,6 @@ Special thanks to [this person](t.me/Kek_NoiCe) for helping me.
 
 Click /help or Help button below to find out more about how to use me to my full potential.
 
-Now add me to your group [here](http://t.me/anierobot_bot?startgroup=true).
-
-Support group is [here](t.me/anie_support)
-
-Deploy Your Own BoT like Me Just Click [here](https://github.com/shiwabhai/GroupManager)
 """
 
 IMPORTED = {}
@@ -155,9 +150,15 @@ def send_start(bot, update):
     first_name = update.effective_user.first_name 
     text = PM_START
 
+    Keyboard = [[InlineKeyboardButton(text="Add to Group 👥",
+                         url="t.me/groupdon_bot?startgroup=true"),
     keyboard = [[InlineKeyboardButton(text="🇮🇳 Language", callback_data="set_lang_")]]
     keyboard += [[InlineKeyboardButton(text="🛠 Reporting", callback_data="cntrl_panel_M"), 
-        InlineKeyboardButton(text="❔ Help", callback_data="help_back")]]
+        InlineKeyboardButton(text="Commands ❓", callback_data="help_back"),
+   Keyboard = [InlineKeyboardButton(text="Support Group 🎙️",
+                         url="https://t.me/anie_support"),
+  Keyboard = [InlineKeyboardButton(text="Source 🌐",
+                         url="https://github.com/shiwabhai/GroupManager"),
 
     update.effective_message.reply_text(PM_START.format(escape_markdown(first_name), bot.first_name), reply_markup=InlineKeyboardMarkup(keyboard), disable_web_page_preview=True, parse_mode=ParseMode.MARKDOWN)
 
