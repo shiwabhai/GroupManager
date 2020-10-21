@@ -154,7 +154,7 @@ def send_start(bot, update):
                          url="t.me/groupdon_bot?startgroup=true"),
     keyboard = [[InlineKeyboardButton(text="🇮🇳 Language", callback_data="set_lang_")]]
     keyboard += [[InlineKeyboardButton(text="🛠 Reporting", callback_data="cntrl_panel_M"), 
-        InlineKeyboardButton(text="Commands ❓", callback_data="help_back"),
+    Keyboard = [ InlineKeyboardButton(text="Commands ❓", callback_data="help_back"),
    Keyboard = [InlineKeyboardButton(text="Support Group 🎙️",
                          url="https://t.me/anie_support"),
   Keyboard = [InlineKeyboardButton(text="Source 🌐",
